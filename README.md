@@ -30,7 +30,7 @@ To run the project locally on your machine, follow these steps:
 1. Clone the repository
 bash
 Copy code
-git clone https://github.com/your-username/gemini-clone.git
+git clone https://kumarabhinav9955.github.io/Gemini-clone/
 cd gemini-clone
 2. Install dependencies
 Make sure you have Node.js installed. Then, install the project dependencies using npm or yarn.
