@@ -58,7 +58,7 @@ Using yarn:
 bash
 Copy code
 yarn dev
-This will launch the app in your default browser at http://localhost:3000.
+This will launch the app in your default browser at http://localhost:5173/Gemini-clone/.
 
 Usage
 Once the development server is running, you can:
